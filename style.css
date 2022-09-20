@@ -334,7 +334,7 @@ html {
   .productButton {
     float: right;
     padding: 10px 20px;
-    background-color: black;
+    background-color: rgb(146, 33, 33);
     color: white;
     font-weight: 600;
     cursor: pointer;
